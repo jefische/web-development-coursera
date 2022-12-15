@@ -2,4 +2,14 @@
 Coursera test repository
 
 Git Bash or terminal command to setup browser sync:
+
 browser-sync start --server --directory --files "*"
+
+git add <path/file name>
+
+git status
+
+git commit -m "some message"
+
+git push
+
