@@ -14,7 +14,9 @@ git commit -m "some message"
 git push
 
 HTML character entity references:
-&lt; is <
+
+"&lt;" is <
+
 &gt; is >
 &amp; is &
 &copy; is the copyright symbol (small c with a circle around it)
