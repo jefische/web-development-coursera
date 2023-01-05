@@ -21,3 +21,5 @@ HTML character entity references:
 &amp; is &
 &copy; is the copyright symbol (small c with a circle around it)
 &nbsp; is a non-breaking space (for keeping text together and not wrapping if window is resized)
+
+auto-close tags in Sublime with Alt + .
